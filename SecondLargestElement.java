@@ -1,4 +1,3 @@
-package proppeers;
 
 import java.util.* ;
 import java.io.*; 
@@ -29,6 +28,7 @@ public class SecondLargestElement {
 	}
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        
-        SecondLargestElement.findSecondLargest(5,[1,2,3,4,5]);    }
+        int arr[]={91,52,3,49,35};
+        System.out.println("Second Largest Element = "+SecondLargestElement.findSecondLargest(5,arr));   
+	}
 }

@@ -1,0 +1,67 @@
+whimisical clone
+
+1. Trapping Rain Water
+1. Valid Parentheses
+2. Rotate matrix by 90 degrees
+1. Longest Palindromic Subsequence
+2. Minimum Number of Platforms
+1. Find Number Of Islands
+You are given a 2-dimensional array/list having N rows and M columns, which is filled with ones(1) and zeroes(0). 1 signifies land, and 0 signifies water.
+A cell is said to be connected to another cell, if one cell lies immediately next to the other cell, in any of the eight directions (two vertical, two horizontal, and four diagonals).
+A group of connected cells having value 1 is called an island. Your task is to find the number of such islands present in the matrix.
+
+1. You are given an number of steps and array of hurdles. You can not step into hurdle and have to reach the step with minimum number of steps. If answer is not possible then return -1.
+
+3sum. Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
+
+https://www.naukri.com/code360/interview-experiences/meesho/meesho-interview-experience-on-campus-jan-2024?testVariant=1
+1. Chocolate Problem
+2. Longest Increasing Subsequence
+3. Colour The Graph
+
+1. LCA Of Binary Tree
+2. Maximum Product Subarray
+1. Maximum meetings
+2. JavaScript
+Explain event loop in details with example.
+3. React
+explain all the hook and its application
+1. Minimum Elements
+2. Is it a Circular Linked List?
+1. Occurrence Of Each Word
+1. System Design
+Design notification service push notification service
+
+Why selected/rejected for the role?
+I had worked with spring boot and Kafka, which is why my resume was shortlisted, after this the interview was like a typical software engineer interview.
+1. System Design
+Build a gym application , that should satisfy this input and output, question was in a lines of many gyms can onboard enroll there customer and manage there basic operations like adding removing updating , the test cases were like - gym owner can see there customer , do all those operations.
+1. System Design
+They wanted to build a game challenge like in zomato in flipkart app, how will I design the classes , db schema and API
+
+1. Longest Consecutive Sequence In A Binary Tree
+ 1. Anagram Pairs
+2. 0 1 Knapsack
+
+
+
+
+
+3. HR Question
+Since my hometown is Agra, was asked whether tourism in Agra due to its heritage is draining out the resources in the city.
+2. HR Question
+I was asked about whether or not I have ever hold some position of responsibility and managed people?
+
+
+
+
+
+
+
+
+
+
+
+
+
+

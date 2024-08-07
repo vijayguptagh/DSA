@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class Pattern{
+public class PatternTriangle{
 
     //if u make function as static here then u can directly call this function using class.fucntion and u dont need to create object.
     public static void pattern1(int n){
